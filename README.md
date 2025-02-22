@@ -18,6 +18,8 @@
 * [Kaeno-TraderScrolling](https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/)
 * [StatTrack](https://hub.sp-tarkov.com/files/file/2501-stattrack/)
 * [Realistic Thermal Scopes](https://hub.sp-tarkov.com/files/file/2680-realistic-thermal-scopes/)
+* [Keys In Loot (KIL)](https://hub.sp-tarkov.com/files/file/1738-keys-in-loot-kil/)
+* [Backdoor Bandit](https://hub.sp-tarkov.com/files/file/2575-backdoor-bandit-bb-3-10-port/)
 
 **Графика**
 * [HollywoodFX](https://hub.sp-tarkov.com/files/file/2683-hollywoodfx/)
