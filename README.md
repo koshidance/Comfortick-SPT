@@ -53,13 +53,16 @@
 * [WTT - CZ Scorpion Evo 3](https://hub.sp-tarkov.com/files/file/1901-wtt-cz-scorpion-evo-3/) - CZ Scorpion EVO3
 
 **Custom Traders / Quests**
-* [Artem](https://hub.sp-tarkov.com/files/file/1410-artem/) - Большой мод на торговца и ещё много всяких приколов по типу масок одежды для чвк
-* [Ref - SPT Friendly Quests](https://hub.sp-tarkov.com/files/file/2108-ref-spt-friendly-quests) - Мод на рефа
-* [Lotus](https://hub.sp-tarkov.com/files/file/1717-lotus/) - Торгаш с большим количеством увестов
+* [Artem](https://hub.sp-tarkov.com/files/file/1410-artem/)
+* [Ref - SPT Friendly Quests](https://hub.sp-tarkov.com/files/file/2108-ref-spt-friendly-quests)
+* [Lotus](https://hub.sp-tarkov.com/files/file/1717-lotus/)
+* [Priscilu: The Trader](https://hub.sp-tarkov.com/files/file/2270-priscilu-the-trader-timmygg-edition)
+* [Legs the Trader](https://hub.sp-tarkov.com/files/file/1944-legs-the-trader/)
 
 **Руссификаторы**
-* [UNNAMED NAVI PROJECT - Artem]()
-* [UNNAMED NAVI PROJECT - Ref]
-* [UNNAMED NAVI PROJECT - Lotus]()
-* [UNNAMED NAVI PROJECT - Guiding Light]()
+* [UNNAMED NAVI PROJECT - Artem](https://hub.sp-tarkov.com/files/file/2567-unnamed-navi-project-artem-russian-localization/)
+* [UNNAMED NAVI PROJECT - Ref](https://hub.sp-tarkov.com/files/file/2681-unp-ru-loc-ref-spt-friendly-quests/)
+* [UNNAMED NAVI PROJECT - Lotus](https://hub.sp-tarkov.com/files/file/2591-unnamed-navi-project-lotus-ru-loc/)
+* [UNNAMED NAVI PROJECT - Legs The Trader](https://hub.sp-tarkov.com/files/file/2607-unp-legs-the-trader-ru-loc/)
+* [UNNAMED NAVI PROJECT - Priscilu](https://hub.sp-tarkov.com/files/file/2600-unnamed-navi-project-priscilu-the-trader-timmygg-edition-ru-loc/)
 
