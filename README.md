@@ -29,6 +29,7 @@
 * [Fontaine's FOV Fix](https://hub.sp-tarkov.com/files/file/942-fontaine-s-fov-fix/) - Другой взгляд на прицелы и прицеливание
 * [Expanded Task Text (ETT)](https://hub.sp-tarkov.com/files/file/1415-expanded-task-text-ett/) - Скрытый текст что от тебя хотят разрабы в квестах
 * [Better Rear Sights](https://hub.sp-tarkov.com/files/file/2176-better-rear-sights/) - Более играбельные механические прицелы (целики)
+* [Please Just Fight](https://hub.sp-tarkov.com/files/file/2652-please-just-fight/) - ЧВК больше убиваются друг об друга (иногда будет сложно найти чвк)
 
 **Графика**
 * [HollywoodFX](https://hub.sp-tarkov.com/files/file/2683-hollywoodfx/) - Ура голивуд (больше кровяки и т.п.)
